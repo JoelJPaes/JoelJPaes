@@ -7,7 +7,7 @@ logo=instagram&logoColor=white)](https://www.instagram.com/yualpaes)
 ![Joel JPaes GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelJPaes&show_icons=true&theme=merko)
 
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que estou utilizando
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="htm15" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
